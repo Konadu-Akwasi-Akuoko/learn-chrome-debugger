@@ -47,14 +47,14 @@ This project provides practical examples and tutorials to help developers learn 
 ```
 learn-chrome-debugger/
 ├── README.md
-└── arc/
+└── src/
     ├── nuxt/          # Nuxt.js debugging examples
     └── nextjs/        # Next.js debugging examples
 ```
 
 ## Framework-Specific Debugging
 
-### Next.js (`arc/nextjs/`)
+### Next.js (`src/nextjs/`)
 
 Learn to debug Next.js applications including:
 - Server-side rendering (SSR) debugging
@@ -63,7 +63,7 @@ Learn to debug Next.js applications including:
 - Middleware debugging
 - Server Components vs Client Components
 
-### Nuxt (`arc/nuxt/`)
+### Nuxt (`src/nuxt/`)
 
 Learn to debug Nuxt applications including:
 - Universal (SSR) mode debugging
